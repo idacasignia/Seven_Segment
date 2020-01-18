@@ -1,0 +1,22 @@
+C:\Users\user\Documents\COLLEGE\Acads (5th yr)\electives3\7segment\7segment\bin\Debug\7segment.exe.config
+C:\Users\user\Documents\COLLEGE\Acads (5th yr)\electives3\7segment\7segment\bin\Debug\7segment.exe
+C:\Users\user\Documents\COLLEGE\Acads (5th yr)\electives3\7segment\7segment\bin\Debug\7segment.pdb
+C:\Users\user\Documents\COLLEGE\Acads (5th yr)\electives3\7segment\7segment\bin\Debug\7segment.xml
+C:\Users\user\Documents\COLLEGE\Acads (5th yr)\electives3\7segment\7segment\obj\Debug\7segment.vbprojResolveAssemblyReference.cache
+C:\Users\user\Documents\COLLEGE\Acads (5th yr)\electives3\7segment\7segment\obj\Debug\_7segment.Form1.resources
+C:\Users\user\Documents\COLLEGE\Acads (5th yr)\electives3\7segment\7segment\obj\Debug\_7segment.Resources.resources
+C:\Users\user\Documents\COLLEGE\Acads (5th yr)\electives3\7segment\7segment\obj\Debug\7segment.vbproj.GenerateResource.Cache
+C:\Users\user\Documents\COLLEGE\Acads (5th yr)\electives3\7segment\7segment\obj\Debug\7segment.exe
+C:\Users\user\Documents\COLLEGE\Acads (5th yr)\electives3\7segment\7segment\obj\Debug\7segment.xml
+C:\Users\user\Documents\COLLEGE\Acads (5th yr)\electives3\7segment\7segment\obj\Debug\7segment.pdb
+C:\Users\idaca\Documents\7segment-master\bin\Debug\7segment.exe.config
+C:\Users\idaca\Documents\7segment-master\obj\Debug\7segment.exe
+C:\Users\idaca\Documents\7segment-master\obj\Debug\7segment.xml
+C:\Users\idaca\Documents\7segment-master\obj\Debug\7segment.pdb
+C:\Users\idaca\Documents\7segment-master\bin\Debug\7segment.exe
+C:\Users\idaca\Documents\7segment-master\bin\Debug\7segment.pdb
+C:\Users\idaca\Documents\7segment-master\bin\Debug\7segment.xml
+C:\Users\idaca\Documents\7segment-master\obj\Debug\7segment.vbprojResolveAssemblyReference.cache
+C:\Users\idaca\Documents\7segment-master\obj\Debug\_7segment.Form1.resources
+C:\Users\idaca\Documents\7segment-master\obj\Debug\_7segment.Resources.resources
+C:\Users\idaca\Documents\7segment-master\obj\Debug\7segment.vbproj.GenerateResource.Cache
